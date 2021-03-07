@@ -1,9 +1,10 @@
 {
 	"TIT2": "Crunchtime Episode 42",
+	"TALB": "Die Crunchtime",
 	"CTOC": [
 		{
-			"start": "xx",
-			"end": "xx",
+			"start": "4200",
+			"end": "3:16:000",
 			"sub_frames": {
 				"TIT2": "",
 				"TIT3": "",
